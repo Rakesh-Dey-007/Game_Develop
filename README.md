@@ -1,4 +1,4 @@
 # Program-GitHub
-This is my first repository.
+This is My First GitHub Repository.
 <br>
-Author - Rakesh Kr. Dey
+Author - Rakesh Kr. Dey.
