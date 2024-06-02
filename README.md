@@ -1,4 +1,4 @@
 # Program-GitHub
-This is My First GitHub Repository.
+This is a VS Code GitHub Repository.
 <br>
-Author - Rakesh Kr. Dey.
+Author - Rakesh Kr. Dey {RD}
