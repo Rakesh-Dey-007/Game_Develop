@@ -1,1 +1,12 @@
+🐍 Snake Game - Built with HTML, CSS, and JavaScript!
 
+Hello friends 👋, I've just completed a fun Snake Game project using HTML, CSS, and JavaScript! 🎮 
+
+🟢 Features:
+- 🎯 Smooth controls for easy gameplay
+- 🎨 Clear and simple design
+- 📱 Fully responsive for mobile and desktop
+- 🚀 Real-time score tracking and updates
+- 🐍 Snake grows as you eat food!
+
+Feel free to try it out and let me know your high score!
